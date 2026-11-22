@@ -1,10 +1,14 @@
 # theORQL Community
 
-**Turn a market chart into research you can defend.**
+**More reasons to subscribe. More reasons to stay.**
 
-theORQL is a financial research platform for independent analysts, research publishers, and investment teams. Compare what moved, look for evidence that could change your view, and show how you reached your conclusion. Our aim is to make quantitative research easier to do while keeping the data, rules, and results open to inspection.
+theORQL is building branded research workspaces for independent paid financial research publishers and their subscribers. ORQL Research is the formal product name.
 
-[Open theORQL Research](https://app.theorql.com/) · [Join the community discussion](https://github.com/the-ORQL/community/discussions)
+The intended member experience connects a publisher's expertise with charts, specialist data, indicators, AI-assisted investigation, historical studies and strategy testing. Subscribers can start with the publisher's work or investigate their own market questions. Official publisher editions remain distinct from members' private research.
+
+Publishers retain their existing website, subscriptions, email and research tools. Founding publisher pilots evaluate selected workflows and available inputs. Some capabilities are planned; availability depends on the accepted pilot, data permissions and supported operations. Subscription growth and renewal are intended outcomes, not measured results.
+
+[Discuss a publisher pilot](https://theorql.com/#pilot) · [Join the community discussion](https://github.com/the-ORQL/community/discussions)
 
 ## What you can investigate
 
@@ -28,15 +32,15 @@ Keep the settings and evidence behind a supported study with its saved result. W
 
 **Is the rally reaching the average stock?** Start by comparing an equal-weight basket with a capitalization-weighted benchmark over the same period. Relative performance tells you which series led. A rolling correlation of daily returns answers a different question: whether the two series have been moving together. If the comparison changes your view, state what evidence would make you revise it again. If you want to test what followed similar divergences in the past, write down the condition and the outcome period before looking at the results.
 
-## Help shape the first Excel workflow
+## Help shape a publisher pilot
 
-We are developing a workflow that starts with a workbook you already use, turns a selected series into a chart, and lets you inspect a comparison or calculation from there. If you already do this in Excel, share a question you answer regularly and tell us which step takes the most manual work. A description of your process is enough to start the discussion.
+Bring a recurring member research question and a publisher method or permitted dataset. A useful pilot should establish what subscribers can do, how official and private work remain separate, and what the publisher needs to prepare and maintain. A public or hypothetical workflow description is enough to start; do not share confidential research, credentials or subscriber information.
 
-[Share a research workflow in GitHub Discussions](https://github.com/the-ORQL/community/discussions)
+[Discuss a member research workflow in GitHub Discussions](https://github.com/the-ORQL/community/discussions)
 
 ## Links
 
 - [Homepage (theORQL.com)](https://theorql.com/)
-- [App (app.theORQL.com)](https://app.theorql.com/)
+- [Research app (access required)](https://app.theorql.com/)
 - [Community](https://github.com/the-ORQL/community)
 - [Follow theORQL on X](https://x.com/AskTheORQL)
