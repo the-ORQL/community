@@ -2,11 +2,9 @@
 
 **More reasons to subscribe. More reasons to stay.**
 
-theORQL is building branded research workspaces for independent paid financial research publishers and their subscribers. ORQL Research is the formal product name.
+theORQL gives independent financial research publishers a branded research home for their subscribers. Bring charts, specialist data, your own indicators, AI analysis and strategy testing together under your brand, alongside your existing website, subscriptions and email.
 
-The intended member experience connects a publisher's expertise with charts, specialist data, indicators, AI-assisted investigation, historical studies and strategy testing. Subscribers can start with the publisher's work or investigate their own market questions. Official publisher editions remain distinct from members' private research.
-
-Publishers retain their existing website, subscriptions, email and research tools. Founding publisher pilots evaluate selected workflows and available inputs. Some capabilities are planned; availability depends on the accepted pilot, data permissions and supported operations. Subscription growth and renewal are intended outcomes, not measured results.
+Subscribers can start with your research or investigate their own market questions. Official publisher editions remain distinct from members' private research.
 
 [Discuss a publisher pilot](https://theorql.com/#pilot) · [Join the community discussion](https://github.com/the-ORQL/community/discussions)
 
